@@ -1,0 +1,3 @@
+router-id,3
+input-ports,2003,4003
+outputs,3002-3-2,3004-4-4
